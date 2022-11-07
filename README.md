@@ -2,7 +2,7 @@
 ![maxresdefault](https://user-images.githubusercontent.com/75189508/194362463-7f25767e-9d8d-4240-a5f1-1134ebd8e734.jpg)
 
 # Replit
-[https://replit.com/@realTristan/Python-STEM-Club3](https://replit.com/@realTristan/httpsreplitcomrealTristanPython-STEM-Club3#main.py)
+https://replit.com/@realTristan/Python-STEM-Club3
 
 
 # Week 3 Final Project
