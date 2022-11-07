@@ -11,7 +11,7 @@ https://replit.com/@realTristan/Python-STEM-Club3
 
 - Minimum of 1 list
 - Minimum of 1 dicionary
-- Minimum of 1 External Import
+- Minimum of 1 import
 
 
 # License
