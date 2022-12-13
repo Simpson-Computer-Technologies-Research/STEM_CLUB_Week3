@@ -19,19 +19,19 @@ print(list_1_value)
 print(list_2_value)
 
 # // Setting specific index in a list
-list_1[1] = "new item"
+list_1[1] = "new item 1"
 
 print(list_1)
 
 # // Adding an item to a list
-list_1.append("new item")
+list_1.append("new item 2")
 
 print(list_1)
 
 # // Removing an item from a list
 del list_1[0]
 
-print(list_2)
+print(list_1)
 
 # // Get length of a list
 list_1_length = len(list_1)
